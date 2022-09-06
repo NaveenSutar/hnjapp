@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "910270083337",
+    "project_id": "health-jiva",
+    "storage_bucket": "health-jiva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910270083337:android:911967545e3ba0cba263d8",
+        "android_client_info": {
+          "package_name": "com.healthandjiva.aiur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910270083337-dilhnuv9r4aohi8br60mrb17efrpnjcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCexwiAx_MrAlfhNLJUmlk2ZmjvGXtAq2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910270083337-dilhnuv9r4aohi8br60mrb17efrpnjcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
